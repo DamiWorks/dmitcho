@@ -9,7 +9,8 @@ Here you’ll find my work, experiments, and contributions.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmitcho&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dmitcho&show_icons=true&theme=radical)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitcho&layout=compact&theme=tokyonight)
 
